@@ -85,7 +85,7 @@
 
 - title: Patents
   type: table
-  contents: 
+  contents:
     - title: Memory device including a plurarity of area having different refresh periods, memory controller controlling the same and memory system including the same
       items: <b><u>US Patent 11276452</u></b>, Korea Application 10-2020-0045023
     - title: A method for neural network processing including memory-optimization techniques

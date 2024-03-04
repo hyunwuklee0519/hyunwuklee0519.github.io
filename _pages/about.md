@@ -15,5 +15,3 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a Ph.D. stduent at [Embedded Systems and Computer Architecture Lab (eSCaL)](http://escal.yonsei.ac.kr) in Yonsei University, Korea.
-
- 
