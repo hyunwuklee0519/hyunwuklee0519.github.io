@@ -1,6 +1,13 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"MICRO":
+  url: https://www.microarch.org/micro56/
+  color: "#0015DF"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ISPASS":
+  url: https://www.ispass.org/ispass2023/
+  color: "#21C600"
+
+"US Patent":
+  color: "#45FF8E"
+
+"Book":
+  color: "#45FF8E"

@@ -38,10 +38,10 @@
 - title: Publication
   type: time_table
   contents:
-    - title: Exploiting Inherent Properties of Complex Numbers for Accelerating Complex Valued Neural Networks
+    - title: Exploiting Inherent Properties of Complex Numbers for Accelerating Complex Valued Neural Networks <a href="https://dl.acm.org/doi/abs/10.1145/3613424.3614287">[PDF]</a> 
       maindescription: "<b><u>Hyunwuk Lee</u></b>, Hyungjun Jang, Sungbin Kim, Sungwoo Kim, Wonho Cho, and Won Woo Ro"
       year: MICRO 2023
-    - title: "Early-Adaptor: An Adaptive Framework for Proactive UVM Memory Management"
+    - title: 'Early-Adaptor: An Adaptive Framework for Proactive UVM Memory Management <a href="https://ieeexplore.ieee.org/abstract/document/10158179">[PDF]</a>'
       maindescription: "Seokjin Go, <b><u>Hyunwuk Lee</u></b>, Junsung Kim, Jiwon Lee, Myung Kuk Yoon, and Won Woo Ro"
       year: ISPASS 2023
 
