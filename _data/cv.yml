@@ -11,14 +11,27 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Neural Network Accelerators 
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Complex Valued Neural Networks [<b>First author</b>, <a href="https://dl.acm.org/doi/abs/10.1145/3613424.3614287">MICRO 2023</a>], [<b>First author</b>, On-going]
+        - Large Language Models [Co-Author, Under Review], [Co-Author, On-going]
+        - Diffusion Models [<b>Co-First-Author</b>, On-going]
+        - On-device AI
+    - title: GPU and GPU Memory Systems
       items:
-        - Description 1.
-        - Description 2.
+        - Unified Memory Systems [Co-author, <a href="https://ieeexplore.ieee.org/abstract/document/10158179">ISPASS 2023</a>]
+        - GPU Register Files [Co-author, Under Review] [Co-author, On-going]
+        - Multi-GPU Data Transfer [Co-author, On-going]
+        - Multi-Instance GPU [Co-author, On-going]
+    - title: Systems for AI Workloads
+      items:
+        - Mobile SoC Optimization for AI Workloads [Co-author, On-going]
+        - Processing in Memory for Sparse DNN [Co-author, Under Review]
+    - title: Others
+      items:
+        - Approximate Memory for Neural Networks [US Patent]
+        - Analytic Model for Multi-Core Systems [Co-author, On-going]
+        - Homomorphic Encryption for AI Workloads [Co-author, On-going]
 
 - title: Education
   type: time_table
