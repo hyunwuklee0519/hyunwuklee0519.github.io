@@ -29,15 +29,15 @@ We focus on complex number representation formats and its operations for efficie
     </div>
 </div>
 <div class="caption">
-    The value distribution of complex numbered weights in rectangular form ({% cite lee2023exploiting %})
+    The value distribution of complex numbered weights in rectangular form {% cite lee2023exploiting %}
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pol_distribution.jpg" title="polar form value distribution" class="rounded z-depth-0" %}
+        {% include figure.liquid loading="eager" path="assets/img/polar_distribution.jpg" title="polar form value distribution" class="rounded z-depth-0" %}
     </div>
 </div>
 <div class="caption">
-    The value distribution of complex numbered weights in polar form ({% cite lee2023exploiting %})
+    The value distribution of complex numbered weights in polar form {% cite lee2023exploiting %}
 </div>
 
 
