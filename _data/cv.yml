@@ -23,7 +23,7 @@
         - GPU Register Files [Co-author, Under Review] [Co-author, On-going]
         - Multi-GPU Data Transfer [Co-author, On-going]
         - Multi-Instance GPU [Co-author, On-going]
-    - title: Systems for AI Workloads
+    - title: Systems for Machine Learning
       items:
         - Mobile SoC Optimization for AI Workloads [Co-author, On-going]
         - Processing in Memory for Sparse DNN [Co-author, Under Review]
