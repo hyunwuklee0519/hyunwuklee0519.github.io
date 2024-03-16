@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Accelerating Complex Valued Neural Networks
-description: A Software-Hardware Co-Design Approach for Complex Valued Neural Networks
-img: assets/img/CVNN_background.jpg
+title: Complex Valued Neural Networks
+description: A Software-Hardware Co-Design Approach for Accelerating Complex Valued Neural Networks
+img: assets/img/CVNN_background.png
 importance: 1
 category: Neural Network
 related_publications: true
@@ -16,7 +16,7 @@ Our research project focus on a software-hardware co-design to overcome the chal
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/CVNN_background.jpg" title="cvnn layer" class="rounded z-depth-0" %}
+        {% include figure.liquid loading="eager" path="assets/img/CVNN_background.png" title="cvnn layer" class="rounded z-depth-0" %}
     </div>
 </div>
 <div class="caption">
@@ -69,4 +69,5 @@ To fully utilize the advantages offered by the PAQ and effectively accelerate CV
 This accelerator is specifically designed to support PAQ and CVNN operations, alongside a CVNN-aware scheduling scheme that optimizes performance and resource utilization.
 Our design achieves significant data compression and a performance increase, marking a step forward in the efficient implementation of CVNNs.
 
-For more details on our approach, techniques, and evaluation results, please refer to our publication: <a href= "https://dl.acm.org/doi/abs/10.1145/3613424.3614287">"Exploiting Inherent Properties of Complex Numbers for Accelerating Complex Valued Neural Networks".
+For more details on our approach, techniques, and evaluation results, please refer to our publication: <a href="https://dl.acm.org/doi/abs/10.1145/3613424.3614287">"Exploiting Inherent Properties of Complex Numbers for Accelerating Complex Valued Neural Networks."</a><br>
+We also have ongoing work on efficient CVNN acceleration, including quantization and hardware design, so if you are interested in our work, please feel free to contact me.

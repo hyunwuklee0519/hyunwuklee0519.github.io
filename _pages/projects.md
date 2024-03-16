@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
+title: projects
 permalink: /projects/
-description: Some of the research projects I have worked on
+description: Some of the research projects I have been working on.
 nav: true
 nav_order: 3
-display_categories: [Neural Network, GPU]
+display_categories: [Neural Network, GPU Systems]
 horizontal: false
 ---
 
