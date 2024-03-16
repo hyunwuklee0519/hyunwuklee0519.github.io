@@ -70,4 +70,4 @@ This accelerator is specifically designed to support PAQ and CVNN operations, al
 Our design achieves significant data compression and a performance increase, marking a step forward in the efficient implementation of CVNNs.
 
 For more details on our approach, techniques, and evaluation results, please refer to our publication: <a href="https://dl.acm.org/doi/abs/10.1145/3613424.3614287">"Exploiting Inherent Properties of Complex Numbers for Accelerating Complex Valued Neural Networks."</a><br>
-We also have ongoing work on efficient CVNN acceleration, including quantization and hardware design, so if you are interested in our work, please feel free to contact me.
+We also have ongoing works on efficient CVNN acceleration, including quantization and hardware design, so if you are interested in our work, please feel free to contact me.
