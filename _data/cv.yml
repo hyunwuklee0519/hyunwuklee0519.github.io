@@ -14,8 +14,8 @@
     - title: Neural Network Accelerators 
       items:
         - Complex Valued Neural Networks [<b>First author</b>, <a href="https://dl.acm.org/doi/abs/10.1145/3613424.3614287">MICRO 2023</a>], [<b>First author</b>, On-going]
-        - Large Language Models [Co-Author, Under Review], [Co-Author, On-going]
-        - Diffusion Models [<b>Co-First-Author</b>, On-going]
+        - Large Language Models [Co-author, Under Review], [Co-author, On-going]
+        - Diffusion Models [<b>Co-First-author</b>, On-going]
         - On-device AI
     - title: GPU and GPU Memory Systems
       items:
@@ -32,6 +32,7 @@
         - Approximate Memory for Neural Networks [US Patent]
         - Analytic Model for Multi-Core Systems [Co-author, On-going]
         - Homomorphic Encryption for AI Workloads [Co-author, On-going]
+        - Diffusion Models [Co-author, Under Review]
 
 - title: Education
   type: time_table
