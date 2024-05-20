@@ -6,8 +6,15 @@
   url: https://www.ispass.org/ispass2023/
   color: "#21C600"
 
+"ISLPED":
+  url: https://www.islped.org/2024/
+  color: "#21C600"
+
 "US Patent":
   color: "#45FF8E"
 
 "Book":
+  color: "#45FF8E"
+
+"Journal":
   color: "#45FF8E"

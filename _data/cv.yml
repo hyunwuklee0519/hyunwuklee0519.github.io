@@ -52,6 +52,12 @@
 - title: Publication
   type: time_table
   contents:
+    - title: 'GGUMSO: Gating Unnecessary On-Chip Memory Slices for Power Optimization on GPUs (Accepted)'
+      maindescription: Seunghyun Jin, <b><u>Hyunwuk Lee</u></b>, and Won Woo Ro
+      year: ISLPED 2024
+    - title: 'SHREG: Mitigating Register Redundancy in GPUs <a href="https://www.sciencedirect.com/science/article/pii/S1383762124000894">[PDF]</a>'
+      maindescription: Seunghyun Jin, <b><u>Hyunwuk Lee</u></b>, Jonghyun Lee, Junsung Kim, and Won Woo Ro
+      year: JSA 2024
     - title: Exploiting Inherent Properties of Complex Numbers for Accelerating Complex Valued Neural Networks <a href="https://dl.acm.org/doi/abs/10.1145/3613424.3614287">[PDF]</a>
       maindescription: "<b><u>Hyunwuk Lee</u></b>, Hyungjun Jang, Sungbin Kim, Sungwoo Kim, Wonho Cho, and Won Woo Ro"
       year: MICRO 2023
