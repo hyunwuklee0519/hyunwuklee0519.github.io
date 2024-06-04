@@ -52,7 +52,7 @@
 - title: Publication
   type: time_table
   contents:
-    - title: 'GGUMSO: Gating Unnecessary On-Chip Memory Slices for Power Optimization on GPUs (Accepted)'
+    - title: 'GUMSO: Gating Unnecessary On-Chip Memory Slices for Power Optimization on GPUs (Accepted)'
       maindescription: Seunghyun Jin, <b><u>Hyunwuk Lee</u></b>, and Won Woo Ro
       year: ISLPED 2024
     - title: 'SHREG: Mitigating Register Redundancy in GPUs <a href="https://www.sciencedirect.com/science/article/pii/S1383762124000894">[PDF]</a>'
