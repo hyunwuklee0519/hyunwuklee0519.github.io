@@ -16,7 +16,6 @@
         - Complex Valued Neural Networks [<b>First author</b>, <a href="https://dl.acm.org/doi/abs/10.1145/3613424.3614287">MICRO 2023</a>], [<b>First author</b>, On-going]
         - Large Language Models [Co-author, Under Review], [Co-author, On-going]
         - Diffusion Models [<b>Co-First-author</b>, Under Review]
-        - On-device AI
     - title: GPU and GPU Memory Systems
       items:
         - Unified Memory Systems [Co-author, <a href="https://ieeexplore.ieee.org/abstract/document/10158179">ISPASS 2023</a>]
@@ -25,7 +24,7 @@
         - Multi-Instance GPU [Co-author, On-going]
     - title: Systems for Machine Learning
       items:
-        - Mobile SoC Optimization for AI Workloads [Co-author, On-going]
+        - AI Workloads Acceleration in Mobile SoC [Co-author, On-going]
         - Processing in Memory for Sparse DNN [Co-author, Under Review]
     - title: Others
       items:
