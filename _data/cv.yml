@@ -15,13 +15,13 @@
       items:
         - Complex Valued Neural Networks [<b>First author</b>, <a href="https://dl.acm.org/doi/abs/10.1145/3613424.3614287">MICRO 2023</a>], [<b>First author</b>, On-going]
         - Large Language Models [Co-author, Under Review], [Co-author, On-going]
-        - Diffusion Models [<b>Co-First-author</b>, On-going]
+        - Diffusion Models [<b>Co-First-author</b>, Under Review]
         - On-device AI
     - title: GPU and GPU Memory Systems
       items:
         - Unified Memory Systems [Co-author, <a href="https://ieeexplore.ieee.org/abstract/document/10158179">ISPASS 2023</a>]
-        - GPU Register Files [Co-author, Under Review] [Co-author, Under Review]
-        - Multi-GPU Data Transfer [Co-author, On-going]
+        - GPU Register Files [Co-author, <a href="https://www.sciencedirect.com/science/article/pii/S1383762124000894">JSA</a>] [Co-author, To be appeared in ISLPED 2024]
+        - Multi-GPU Data Transfer [Co-author, Under Review]
         - Multi-Instance GPU [Co-author, On-going]
     - title: Systems for Machine Learning
       items:
@@ -30,8 +30,7 @@
     - title: Others
       items:
         - Approximate Memory for Neural Networks [US Patent]
-        - Analytic Model for Multi-Core Systems [Co-author, On-going]
-        - Homomorphic Encryption for AI Workloads [Co-author, On-going]
+        - Analytic Model for Multi-Core Systems [Co-author, Under Review]
         - Diffusion Models [Co-author, Under Review]
 
 - title: Education
