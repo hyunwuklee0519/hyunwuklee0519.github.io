@@ -1,13 +1,13 @@
 "MICRO":
-  url: https://www.microarch.org/micro56/
   color: "#0015DF"
 
 "ISPASS":
-  url: https://www.ispass.org/ispass2023/
   color: "#21C600"
 
 "ISLPED":
-  url: https://www.islped.org/2024/
+  color: "#21C600"
+
+"ICCD":
   color: "#21C600"
 
 "US Patent":

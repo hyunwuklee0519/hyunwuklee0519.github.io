@@ -8,35 +8,35 @@
     - name: Languages
       value: Korean (native), English (fluent)
 
-- title: Academic Interests
+- title: Academic Projects
   type: nested_list
   contents:
     - title: Neural Network Accelerators 
       items:
-        - Complex Valued Neural Networks [<b>First author</b>, <a href="https://dl.acm.org/doi/abs/10.1145/3613424.3614287">MICRO 2023</a>], [<b>First author</b>, On-going]
-        - Large Language Models [Co-author, Under Review], [Co-author, On-going]
+        - Complex Valued Neural Networks [<b>First author</b>, <a href="https://dl.acm.org/doi/abs/10.1145/3613424.3614287">MICRO 2023</a>], [<b>First author</b>, Under Review]
+        - Large Language Models [Co-author, To be appeared in ICCD 2024], [Co-author, On-going]
         - Diffusion Models [<b>Co-First-author</b>, Under Review]
     - title: GPU and GPU Memory Systems
       items:
         - Unified Memory Systems [Co-author, <a href="https://ieeexplore.ieee.org/abstract/document/10158179">ISPASS 2023</a>]
-        - GPU Register Files [Co-author, <a href="https://www.sciencedirect.com/science/article/pii/S1383762124000894">JSA</a>] [Co-author, To be appeared in ISLPED 2024]
-        - Multi-GPU Data Transfer [Co-author, Under Review]
+        - GPU Register Files [Co-author, <a href="https://www.sciencedirect.com/science/article/pii/S1383762124000894">JSA</a>] [Co-author, <a href="https://dl.acm.org/doi/10.1145/3665314.3670800">ISPLED 2024</a>]
+        - Multi-GPU Data Transfer [Co-author, On-going]
         - Multi-Instance GPU [Co-author, On-going]
     - title: Systems for Machine Learning
       items:
         - AI Workloads Acceleration in Mobile SoC [Co-author, On-going]
-        - Processing in Memory for Sparse DNN [Co-author, Under Review]
+        - Processing in Memory for Sparse DNN [Co-author, On-going]
     - title: Others
       items:
-        - Approximate Memory for Neural Networks [US Patent]
-        - Analytic Model for Multi-Core Systems [Co-author, Under Review]
-        - Diffusion Models [Co-author, Under Review]
+        - Approximate Memory for Neural Networks [<a href="https://patents.google.com/patent/US11276452B2/en">US Patent</a>]
+        - Analytic Model for Multi-Core Systems [Co-author, On-going]
+        - Diffusion Models [Co-author, On-going]
 
 - title: Education
   type: time_table
   contents:
     - title: Integrated Master and Ph.D. Degree in Computer Architecture
-      year: 2018 - present
+      year: 2018 - 2024
       description:
         - Yonsei University, Korea
         - Advised by Won Woo Ro
@@ -50,7 +50,10 @@
 - title: Publication
   type: time_table
   contents:
-    - title: 'GUMSO: Gating Unnecessary On-Chip Memory Slices for Power Optimization on GPUs (Accepted)'
+    - title: 'AirGun: Adaptive Granularity Quantization for Accelerating Large Language Models (Accepted)'
+      maindescription: Sungbin Kim, <b><u>Hyunwuk Lee</u></b>, Sungwoo Kim, Cheolhwan Kim, and Won Woo Ro
+      year: ICCD 2024 
+    - title: 'GUMSO: Gating Unnecessary On-Chip Memory Slices for Power Optimization on GPUs <a href="https://dl.acm.org/doi/10.1145/3665314.3670800">[PDF]</a>'
       maindescription: Seunghyun Jin, <b><u>Hyunwuk Lee</u></b>, and Won Woo Ro
       year: ISLPED 2024
     - title: 'SHREG: Mitigating Register Redundancy in GPUs <a href="https://www.sciencedirect.com/science/article/pii/S1383762124000894">[PDF]</a>'
@@ -84,7 +87,7 @@
   contents:
     - title: Memory-Centric Architecture using the Reconfigurable PIM Devices
       maindescription: Institute for Information & communication Technology Planning & evaluation (IITP), Korea
-      year: 2024-present
+      year: 2024
     - title: Developing Data Processing Unit for AI Workloads
       maindescription: Korea Evaluation Institute of Industrial Technology (KEIT), Korea
       year: 2022-2024
