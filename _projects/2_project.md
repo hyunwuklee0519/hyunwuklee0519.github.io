@@ -33,5 +33,6 @@ Moreover, there have been various quantization techniques proposed to reduce the
 However, since the needs for generating high-quality and high-resolution images are increasing, there is still a need for further improvements in diffusion models.
 
 Our research project focuses on the recurrent nature of diffusion models, and aims to improve their computational efficiency.
-Currently, we are exploring the potential of hardware acceleration for diffusion models, particularly leveraging recurrent characteristics of diffusion models and quantization techniques.<br>
-If you are interested in our project, please feel free to contact me.
+Detail of the project will be demonstrated on our paper, "Ditto: Accelerating Diffusion Model via Temporal Value Similarity"{% cite kim2025dit %}.
+
+We currently have ongoing project on efficient CVNN acceleration, including quantization and hardware design, so if you are interested in our project, please feel free to contact me.

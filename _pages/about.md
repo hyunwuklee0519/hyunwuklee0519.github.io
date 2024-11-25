@@ -15,4 +15,4 @@ social: true # includes social icons at the bottom of the page
 
 I received my Ph.D. in Electrical and Electronic Engineering (Computer Architecture) at Yonsei University, advised by Prof. Won Woo Ro [[Lab]](http://escal.yonsei.ac.kr).
 My Ph.D. research focused on the field of neural network accelerators and GPU architecture.
-I am currently working on Samsung Electronics, as a system expert.
+I am currently working on Samsung Electronics, as a system engineer.

@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title:  # the website title (if blank, full name will be used instead)
 first_name: Hyunwuk
 middle_name:
 last_name: Lee
 email: hyunwuklee0519@gmail.com
-description: blank # the ">" symbol means to ignore newlines until "footer_text:"
-footer_text: blank
+description:  # the ">" symbol means to ignore newlines until "footer_text:"
+footer_text: 
 keywords:  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -377,7 +377,7 @@ enable_publication_thumbnails: true
 external_links:
   enabled: true
   rel: external nofollow noopener
-  target: _blank
+  target: 
   exclude:
 
 # -----------------------------------------------------------------------------
