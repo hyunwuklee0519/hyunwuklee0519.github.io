@@ -54,7 +54,7 @@
     - title: 'Ditto: Accelerating Diffusion Model via Temporal Value Similarity (Accepted)'
       maindescription: Sungbin Kim*, <b><u>Hyunwuk Lee*</u></b>, Wonho Cho, Mincheol Park, and Won Woo Ro (*Co-first author)
       year: HPCA 2025 
-    - title: 'AirGun: Adaptive Granularity Quantization for Accelerating Large Language Models (Accepted)'
+    - title: 'AirGun: Adaptive Granularity Quantization for Accelerating Large Language Models <a href="https://ieeexplore.ieee.org/abstract/document/10818069">[PDF]</a>'
       maindescription: Sungbin Kim, <b><u>Hyunwuk Lee</u></b>, Sungwoo Kim, Cheolhwan Kim, and Won Woo Ro
       year: ICCD 2024 
     - title: 'GUMSO: Gating Unnecessary On-Chip Memory Slices for Power Optimization on GPUs <a href="https://dl.acm.org/doi/10.1145/3665314.3670800">[PDF]</a>'
@@ -73,6 +73,9 @@
 - title: Professional Experience
   type: time_table
   contents:
+    - title: System Architect
+      year: Fall 2024 - 
+      maindescription: "Samsung Electronic, Korea (Solution Platform Development)"
     - title: Teaching Assistant
       year: Spring 2018
       maindescription: "Yonsei University, Korea (EEE3530: computer architecture)"

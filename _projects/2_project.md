@@ -35,4 +35,4 @@ However, since the needs for generating high-quality and high-resolution images 
 Our research project focuses on the recurrent nature of diffusion models, and aims to improve their computational efficiency.
 Detail of the project will be demonstrated on our paper, "Ditto: Accelerating Diffusion Model via Temporal Value Similarity"{% cite kim2025dit %}.
 
-We currently have ongoing project on efficient CVNN acceleration, including quantization and hardware design, so if you are interested in our project, please feel free to contact me.
+We currently have ongoing project on efficient accelerator of DiT model for video generation, including quantization and hardware design, so if you are interested in our project, please feel free to contact me.
