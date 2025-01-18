@@ -20,7 +20,7 @@
       items:
         - Unified Memory Systems [Co-author, <a href="https://ieeexplore.ieee.org/abstract/document/10158179">ISPASS 2023</a>]
         - GPU Register Files [Co-author, <a href="https://www.sciencedirect.com/science/article/pii/S1383762124000894">JSA</a>] [Co-author, <a href="https://dl.acm.org/doi/10.1145/3665314.3670800">ISPLED 2024</a>]
-        - Multi-GPU Data Transfer [Co-author, Under Review] [Co-author, <a href="https://www.sciencedirect.com/science/article/abs/pii/S1383762125000116">JSA<\a>]
+        - Multi-GPU Data Transfer [Co-author, Under Review] [Co-author, <a href="https://www.sciencedirect.com/science/article/abs/pii/S1383762125000116">JSA</a>]
         - Multi-Instance GPU [Co-author, On-going]
     - title: Systems for Machine Learning
       items:
