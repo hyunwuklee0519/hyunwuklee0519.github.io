@@ -15,7 +15,7 @@
       items:
         - Complex Valued Neural Networks [<b>First author</b>, <a href="https://dl.acm.org/doi/abs/10.1145/3613424.3614287">MICRO 2023</a>], [<b>First author</b>, Under Review]
         - Large Language Models [Co-author, <a href="https://ieeexplore.ieee.org/abstract/document/10818069">ICCD 2024</a>], [Co-author, On-going]
-        - Diffusion Models [<b>Co-First-author</b>, Accepted in HPCA 2025], [Co-author, On-going]
+        - Diffusion Models [<b>Co-First-author</b>, Accepted in HPCA 2025][<a href="https://arxiv.org/abs/2501.11211">arXiv</a>], [Co-author, On-going]
     - title: GPU and GPU Memory Systems
       items:
         - Unified Memory Systems [Co-author, <a href="https://ieeexplore.ieee.org/abstract/document/10158179">ISPASS 2023</a>]
