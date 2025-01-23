@@ -51,7 +51,7 @@
 - title: Publication
   type: time_table
   contents:
-    - title: 'Ditto: Accelerating Diffusion Model via Temporal Value Similarity (Accepted)'
+    - title: 'Ditto: Accelerating Diffusion Model via Temporal Value Similarity <a href="https://arxiv.org/pdf/2501.11211">[ArXiv]</a>'
       maindescription: Sungbin Kim*, <b><u>Hyunwuk Lee*</u></b>, Wonho Cho, Mincheol Park, and Won Woo Ro (*Co-first author)
       year: HPCA 2025 
     - title: 'AirGun: Adaptive Granularity Quantization for Accelerating Large Language Models <a href="https://ieeexplore.ieee.org/abstract/document/10818069">[PDF]</a>'
