@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-08-01
+date: 2025-02-27
 inline: true
 related_posts: false
 ---
 
-The paper, <a href="https://ieeexplore.ieee.org/abstract/document/10818069">'AirGun: Adaptive Granularity Quantization for Accelerating Large Language Models'</a>, has been accepted to IEEE International Conference on Computer Design (ICCD) 2024.
+"CVMAX: Accelerator Architecture with Polar Form Multiplication for Complex-Valued Neural Networks" has been accepted for DAC 2025! I am a first author of the paper.
