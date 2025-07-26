@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-"COSMOS: An LLC Contention Slowdown Model for Heterogeneous Multi-core Systems" has been accepted for ISPASS 2025! I am a co-author of the paper.
+Two papers has been accepted in ICCV 2025 and MICRO 20205! I am a co-author of both papers.

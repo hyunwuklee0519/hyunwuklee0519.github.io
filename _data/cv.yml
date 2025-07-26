@@ -13,13 +13,14 @@
   contents:
     - title: Neural Network Accelerators 
       items:
-        - Complex Valued Neural Networks [<b>First author</b>, <a href="https://dl.acm.org/doi/abs/10.1145/3613424.3614287">MICRO 2023</a>], [<b>First author</b>, Accepted in DAC 2025]
+        - Complex Valued Neural Networks [<b>First author</b>, <a href="https://dl.acm.org/doi/abs/10.1145/3613424.3614287">MICRO 2023</a>], [<b>First author</b>, DAC 2025]
         - Large Language Models [Co-author, <a href="https://ieeexplore.ieee.org/abstract/document/10818069">ICCD 2024</a>], [Co-author, On-going]
-        - Diffusion Models [<b>Co-First-author</b>, Accepted in HPCA 2025][<a href="https://arxiv.org/pdf/2501.11211">arXiv</a>], [Co-author, On-going]
+        - Diffusion Models [<b>Co-First-author</b>, HPCA 2025][<a href="https://arxiv.org/pdf/2501.11211">arXiv</a>], [Co-author, On-going]
+        - Bit Serial Accelerator [Co-author, Accepted in MICRO 2025]
     - title: GPU and GPU Memory Systems
       items:
         - Unified Memory Systems [Co-author, <a href="https://ieeexplore.ieee.org/abstract/document/10158179">ISPASS 2023</a>]
-        - GPU Register Files [Co-author, <a href="https://www.sciencedirect.com/science/article/pii/S1383762124000894">JSA</a>] [Co-author, <a href="https://dl.acm.org/doi/10.1145/3665314.3670800">ISLPED 2024</a>]
+        - GPU Register Files [Co-author, <a href="https://www.sciencedirect.com/science/article/pii/S1383762124000894">JSA</a>, <a href="https://patents.google.com/patent/US12298901B2/en">Patent</a>] [Co-author, <a href="https://dl.acm.org/doi/10.1145/3665314.3670800">ISLPED 2024</a>]
         - Multi-GPU Data Transfer [Co-author, Under Review] [Co-author, <a href="https://www.sciencedirect.com/science/article/abs/pii/S1383762125000116">JSA</a>]
     - title: Systems for Machine Learning
       items:
@@ -29,8 +30,8 @@
     - title: Others
       items:
         - Approximate Memory for Neural Networks [<a href="https://patents.google.com/patent/US11276452B2/en">US Patent</a>]
-        - Analytic Model for Multi-Core Systems [Co-author, Accepted in ISPASS 2025]
-        - Diffusion Models [Co-author, Under Review]
+        - Analytic Model for Multi-Core Systems [Co-author, ISPASS 2025]
+        - Diffusion Models [Co-author, Accepted in ICCV 2025]
 
 - title: Education
   type: time_table
@@ -50,10 +51,16 @@
 - title: Publication
   type: time_table
   contents:
-    - title: 'COSMOS: An LLC Contention Slowdown Model for Heterogeneous Multi-core Systems (Accepted)'
+    - title: 'BitL: Hybrid Bit-Serial and Parallel Processing for Critical Path Reduction (Accepted)'
+      maindescription: Seunghyun Lee, Dongho Ha, Sungbin Kim, Sungwoo Kim, <b><u>Hyunwuk Lee</u></b>, and Won Woo Ro
+      year: MICRO 2025
+    - title: 'Adversarial Purification via Super-Resolution and Diffusion (Accepted)'
+      maindescription: Mincheol Park, Cheonjun Park, Seungseop Lim, Mijin Koo, <b><u>Hyunwuk Lee</u></b>, Won Woo Ro, and Suhyun Kim
+      year: ICCV 2025
+    - title: 'COSMOS: An LLC Contention Slowdown Model for Heterogeneous Multi-core Systems'
       maindescription: Yongju Lee, Jaewon Kwon, Cheolhwan Kim, Enhyeok Jang, Jiwon Lee, <b><u>Hyunwuk Lee</u></b>, and Won Woo Ro
       year: ISPASS 2025
-    - title: 'CVMAX: Accelerator Architecture with Polar Form Multiplication for Complex-Valued Neural Networks (Accepted)'
+    - title: 'CVMAX: Accelerator Architecture with Polar Form Multiplication for Complex-Valued Neural Networks'
       maindescription: <b><u>Hyunwuk Lee</u></b>, Sungbin Kim, Sungwoo Kim, and Won Woo Ro
       year: DAC 2025 
     - title: 'Ditto: Accelerating Diffusion Model via Temporal Value Similarity <a href="https://arxiv.org/pdf/2501.11211">[ArXiv]</a>'
@@ -121,10 +128,10 @@
   contents:
     - title: Memory device including a plurarity of area having different refresh periods, memory controller controlling the same and memory system including the same
       items: <b><u>US Patent 11276452</u></b>, Korea Application 10-2020-0045023
+    - title: Apparatus and method with register sharing
+      items: <b><u>US Patent No. 12298901</u></b>, Korea Application 10-2022-0074653
     - title: A method for neural network processing including memory-optimization techniques
       items: Korea Application 10-2022-0041848
-    - title: Apparatus and method with register sharing
-      items: US Application 18/ 315576, Korea Application 10-2022-0074653
     - title: Memory management unit and method of walking page table
       items: US Application 18/502058, Korea Application 10-2022-0175909
     - title: Memory management apparatus and method for UVM
