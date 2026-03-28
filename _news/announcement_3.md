@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-"Ditto: Accelerating Diffusion Model via Temporal Value Similarity" has been accepted for HPCA 2025! I am a co-first author of the paper. Now, <a href = "https://arxiv.org/abs/2501.11211">ArXiv version</a> of the paper is available!!
+"Ditto: Accelerating Diffusion Model via Temporal Value Similarity" has been accepted for HPCA 2025! I am a co-first author of the paper.

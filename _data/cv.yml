@@ -13,25 +13,28 @@
   contents:
     - title: Neural Network Accelerators 
       items:
-        - Complex Valued Neural Networks [<b>First author</b>, <a href="https://dl.acm.org/doi/abs/10.1145/3613424.3614287">MICRO 2023</a>], [<b>First author</b>, DAC 2025]
-        - Large Language Models [Co-author, <a href="https://ieeexplore.ieee.org/abstract/document/10818069">ICCD 2024</a>], [Co-author, On-going]
-        - Diffusion Models [<b>Co-First-author</b>, HPCA 2025][<a href="https://arxiv.org/pdf/2501.11211">arXiv</a>], [Co-author, On-going]
-        - Bit Serial Accelerator [Co-author, Accepted in MICRO 2025]
+        - Complex Valued Neural Networks [<b>First author</b>, <a href="https://dl.acm.org/doi/abs/10.1145/3613424.3614287">MICRO 2023</a>], [<b>First author</b>, <a href="https://ieeexplore.ieee.org/abstract/document/11133125">DAC 2025</a>]
+        - Large Language Models [Co-author, <a href="https://ieeexplore.ieee.org/abstract/document/10818069">ICCD 2024</a>]
+        - Diffusion Models [<b>Co-First-author</b>, <a href="https://ieeexplore.ieee.org/abstract/document/10946815">HPCA 2025</a>][<a href="https://arxiv.org/pdf/2501.11211">arXiv</a>], [Co-author, On-going]
+        - Vision Language Action Models [First-author, On-going]
+        - Bit Serial Accelerator [Co-author, <a href="https://dl.acm.org/doi/full/10.1145/3725843.3756044">MICRO 2025</a>]
+        - Data Format for Neural Network [Co-author, Accepted in ISCA2026]
     - title: GPU and GPU Memory Systems
       items:
         - Unified Memory Systems [Co-author, <a href="https://ieeexplore.ieee.org/abstract/document/10158179">ISPASS 2023</a>]
         - GPU Register Files [Co-author, <a href="https://www.sciencedirect.com/science/article/pii/S1383762124000894">JSA</a>, <a href="https://patents.google.com/patent/US12298901B2/en">Patent</a>] [Co-author, <a href="https://dl.acm.org/doi/10.1145/3665314.3670800">ISLPED 2024</a>]
-        - Multi-GPU Data Transfer [Co-author, Under Review] [Co-author, <a href="https://www.sciencedirect.com/science/article/abs/pii/S1383762125000116">JSA</a>]
+        - Multi-GPU Data Transfer [Co-author, Under Review] [Co-author, <a href="https://www.sciencedirect.com/science/article/pii/S1383762125000116">JSA</a>]
     - title: Systems for Machine Learning
       items:
-        - AI Workloads Acceleration in Mobile SoC [Co-author, On-going]
-        - Multi-Core Accelerator Scheduling [Co-author, Under Review]
+        - Super-Resolution AI Model Acceleration in Mobile SoC [Co-author, Accepted in ISCA2026]
+        - Multi-Core Accelerator Scheduling [Co-author, <a href="https://www.sciencedirect.com/science/article/pii/S1383762125003224">JSA</a>]
         - Processing in Memory for Sparse DNN [Co-author, Under Review]
+        - CXL-PNM for Large Language Models [First-author, On-going]
     - title: Others
       items:
         - Approximate Memory for Neural Networks [<a href="https://patents.google.com/patent/US11276452B2/en">US Patent</a>]
-        - Analytic Model for Multi-Core Systems [Co-author, ISPASS 2025]
-        - Diffusion Models [Co-author, Accepted in ICCV 2025]
+        - Analytic Model for Multi-Core Systems [Co-author, <a href="https://ieeexplore.ieee.org/abstract/document/11096128">ISPASS 2025</a>]
+        - Diffusion Models [Co-author, <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Park_Adversarial_Purification_via_Super-Resolution_and_Diffusion_ICCV_2025_paper.html">ICCV 2025</a>]
 
 - title: Education
   type: time_table
@@ -51,21 +54,33 @@
 - title: Publication
   type: time_table
   contents:
-    - title: 'BitL: Hybrid Bit-Serial and Parallel Processing for Critical Path Reduction (Accepted)'
+    - title: 'SLICE: A Selective Local Inference Framework with Codec Exploitation for Accelerating Video Super-Resolution (Accepted)'
+      maindescription: Mingu Jung, Sungbin Kim, Seunghyun Lee, Seunghyun Jin, <b><u>Hyunwuk Lee</u></b>, and Won Woo Ro
+      year: ISCA 2026
+    - title: 'MXFFP: Microscaling Flexible Floating Point Format for Large-Scale AI Model Acceleration (Accepted)'
+      maindescription: Sungwoo Kim, Sungbin Kim, Dongho Ha, <b><u>Hyunwuk Lee</u></b>, Junsung Kim, Seunghyun Lee, Mingu Jung, Murali Annavaram, and Won Woo Ro
+      year: ISCA 2026
+    - title: 'DeSpa: Heterogeneous multi-core accelerators for energy-efficient dense and sparse computation at the tile level in Deep Neural Networks <a href="https://www.sciencedirect.com/science/article/pii/S1383762125003224">[PDF]</a>'
+      maindescription: Hyungjun Jang, Dongho Ha, <b><u>Hyunwuk Lee</u></b>, and Won Woo Ro
+      year: JSA 2026
+    - title: 'BitL: Hybrid Bit-Serial and Parallel Processing for Critical Path Reduction <a href="https://dl.acm.org/doi/full/10.1145/3725843.3756044">[PDF]</a>'
       maindescription: Seunghyun Lee, Dongho Ha, Sungbin Kim, Sungwoo Kim, <b><u>Hyunwuk Lee</u></b>, and Won Woo Ro
       year: MICRO 2025
-    - title: 'Adversarial Purification via Super-Resolution and Diffusion (Accepted)'
+    - title: 'Adversarial Purification via Super-Resolution and Diffusion <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Park_Adversarial_Purification_via_Super-Resolution_and_Diffusion_ICCV_2025_paper.html">[PDF]</a>'
       maindescription: Mincheol Park, Cheonjun Park, Seungseop Lim, Mijin Koo, <b><u>Hyunwuk Lee</u></b>, Won Woo Ro, and Suhyun Kim
       year: ICCV 2025
-    - title: 'COSMOS: An LLC Contention Slowdown Model for Heterogeneous Multi-core Systems'
+    - title: 'COSMOS: An LLC Contention Slowdown Model for Heterogeneous Multi-core Systems <a href="https://ieeexplore.ieee.org/abstract/document/11096128">[PDF]</a>'
       maindescription: Yongju Lee, Jaewon Kwon, Cheolhwan Kim, Enhyeok Jang, Jiwon Lee, <b><u>Hyunwuk Lee</u></b>, and Won Woo Ro
       year: ISPASS 2025
-    - title: 'CVMAX: Accelerator Architecture with Polar Form Multiplication for Complex-Valued Neural Networks'
+    - title: 'CVMAX: Accelerator Architecture with Polar Form Multiplication for Complex-Valued Neural Networks <a href="https://ieeexplore.ieee.org/abstract/document/11133125">[PDF]</a>'
       maindescription: <b><u>Hyunwuk Lee</u></b>, Sungbin Kim, Sungwoo Kim, and Won Woo Ro
       year: DAC 2025 
-    - title: 'Ditto: Accelerating Diffusion Model via Temporal Value Similarity <a href="https://arxiv.org/pdf/2501.11211">[ArXiv]</a>'
+    - title: 'Ditto: Accelerating Diffusion Model via Temporal Value Similarity <a href="https://ieeexplore.ieee.org/abstract/document/10946815">[PDF]</a> <a href="https://arxiv.org/pdf/2501.11211">[ArXiv]</a>'
       maindescription: Sungbin Kim*, <b><u>Hyunwuk Lee*</u></b>, Wonho Cho, Mincheol Park, and Won Woo Ro (*Co-first author)
       year: HPCA 2025 
+    - title: 'REC: Enhancing fine-grained cache coherence protocol in multi-GPU systems <a href="https://www.sciencedirect.com/science/article/pii/S1383762125000116">[PDF]</a>'
+      maindescription: Gun Ko, Jiwon Lee, Hongju Kal, <b><u>Hyunwuk Lee</u></b>, and Won Woo Ro
+      year: JSA 2025
     - title: 'AirGun: Adaptive Granularity Quantization for Accelerating Large Language Models <a href="https://ieeexplore.ieee.org/abstract/document/10818069">[PDF]</a>'
       maindescription: Sungbin Kim, <b><u>Hyunwuk Lee</u></b>, Sungwoo Kim, Cheolhwan Kim, and Won Woo Ro
       year: ICCD 2024 
@@ -98,6 +113,8 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - title: Samsung Industry-Academic Research Project Paper Awards
+      year: 2025
     - title: SK Hynix Industry-Academic Research Project Outstanding Invention
       year: 2021
 
@@ -127,13 +144,13 @@
   type: table
   contents:
     - title: Memory device including a plurarity of area having different refresh periods, memory controller controlling the same and memory system including the same
-      items: <b><u>US Patent 11276452</u></b>, Korea Application 10-2020-0045023
+      items: <b><u>US Patent No. 11276452</u></b>, Korea Application 10-2020-0045023
     - title: Apparatus and method with register sharing
       items: <b><u>US Patent No. 12298901</u></b>, Korea Application 10-2022-0074653
     - title: A method for neural network processing including memory-optimization techniques
       items: Korea Application 10-2022-0041848
     - title: Memory management unit and method of walking page table
-      items: US Application 18/502058, Korea Application 10-2022-0175909
+      items: <b><u>US Patent No. 12450164</u></b>, Korea Application 10-2022-0175909
     - title: Memory management apparatus and method for UVM
       items: Korea Application 10-2023-0076606
     - title: Polar Form Aware Apparatus and Method for Complex Valued Neural Network and Rectangular Form Conversion Apparatus
