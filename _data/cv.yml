@@ -11,7 +11,7 @@
 - title: Academic Projects
   type: nested_list
   contents:
-    - title: Neural Network Accelerators 
+    - title: Neural Network Accelerators
       items:
         - Complex Valued Neural Networks [<b>First author</b>, <a href="https://dl.acm.org/doi/abs/10.1145/3613424.3614287">MICRO 2023</a>], [<b>First author</b>, <a href="https://ieeexplore.ieee.org/abstract/document/11133125">DAC 2025</a>]
         - Large Language Models [Co-author, <a href="https://ieeexplore.ieee.org/abstract/document/10818069">ICCD 2024</a>]
@@ -55,13 +55,13 @@
 - title: Publication
   type: time_table
   contents:
-    - title: 'SLGS: A Structure-Aware Scanline Renderer for Efficient 3D Gaussian Splatting (Accepted)'
+    - title: "SLGS: A Structure-Aware Scanline Renderer for Efficient 3D Gaussian Splatting (Accepted)"
       maindescription: Seunghyun Lee, Mingu Jung, Sungwoo Kim, Sungbin Kim, Dongho Ha, <b><u>Hyunwuk Lee</u></b>, Yingyan (Celine) Lin, and Won Woo Ro
       year: PACT 2026
-    - title: 'SLICE: A Selective Local Inference Framework with Codec Exploitation for Accelerating Video Super-Resolution'
+    - title: "SLICE: A Selective Local Inference Framework with Codec Exploitation for Accelerating Video Super-Resolution"
       maindescription: Mingu Jung, Sungbin Kim, Seunghyun Lee, Seunghyun Jin, <b><u>Hyunwuk Lee</u></b>, and Won Woo Ro
       year: ISCA 2026
-    - title: 'MXFFP: Microscaling Flexible Floating Point Format for Large-Scale AI Model Acceleration'
+    - title: "MXFFP: Microscaling Flexible Floating Point Format for Large-Scale AI Model Acceleration"
       maindescription: Sungwoo Kim, Sungbin Kim, Dongho Ha, <b><u>Hyunwuk Lee</u></b>, Junsung Kim, Seunghyun Lee, Mingu Jung, Murali Annavaram, and Won Woo Ro
       year: ISCA 2026
     - title: 'DeSpa: Heterogeneous multi-core accelerators for energy-efficient dense and sparse computation at the tile level in Deep Neural Networks <a href="https://www.sciencedirect.com/science/article/pii/S1383762125003224">[PDF]</a>'
@@ -78,16 +78,16 @@
       year: ISPASS 2025
     - title: 'CVMAX: Accelerator Architecture with Polar Form Multiplication for Complex-Valued Neural Networks <a href="https://ieeexplore.ieee.org/abstract/document/11133125">[PDF]</a>'
       maindescription: <b><u>Hyunwuk Lee</u></b>, Sungbin Kim, Sungwoo Kim, and Won Woo Ro
-      year: DAC 2025 
+      year: DAC 2025
     - title: 'Ditto: Accelerating Diffusion Model via Temporal Value Similarity <a href="https://ieeexplore.ieee.org/abstract/document/10946815">[PDF]</a> <a href="https://arxiv.org/pdf/2501.11211">[ArXiv]</a>'
       maindescription: Sungbin Kim*, <b><u>Hyunwuk Lee*</u></b>, Wonho Cho, Mincheol Park, and Won Woo Ro (*Co-first author)
-      year: HPCA 2025 
+      year: HPCA 2025
     - title: 'REC: Enhancing fine-grained cache coherence protocol in multi-GPU systems <a href="https://www.sciencedirect.com/science/article/pii/S1383762125000116">[PDF]</a>'
       maindescription: Gun Ko, Jiwon Lee, Hongju Kal, <b><u>Hyunwuk Lee</u></b>, and Won Woo Ro
       year: JSA 2025
     - title: 'AirGun: Adaptive Granularity Quantization for Accelerating Large Language Models <a href="https://ieeexplore.ieee.org/abstract/document/10818069">[PDF]</a>'
       maindescription: Sungbin Kim, <b><u>Hyunwuk Lee</u></b>, Sungwoo Kim, Cheolhwan Kim, and Won Woo Ro
-      year: ICCD 2024 
+      year: ICCD 2024
     - title: 'GUMSO: Gating Unnecessary On-Chip Memory Slices for Power Optimization on GPUs <a href="https://dl.acm.org/doi/10.1145/3665314.3670800">[PDF]</a>'
       maindescription: Seunghyun Jin, <b><u>Hyunwuk Lee</u></b>, and Won Woo Ro
       year: ISLPED 2024
@@ -105,7 +105,7 @@
   type: time_table
   contents:
     - title: System Architect
-      year: Fall 2024 - 
+      year: Fall 2024 -
       maindescription: "Samsung Electronics, Korea (Solution Platform Development)"
     - title: Teaching Assistant
       year: Spring 2018
