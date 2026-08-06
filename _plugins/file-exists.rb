@@ -6,15 +6,17 @@ module Jekyll
     end
 
     def render(context)
-      # Pipe parameter through Liquid to make additional replacements possible
-      url = Liquid::Template.parse(@path).render context
+      # Pipe parameter through Liquid to make additional replacements possible.
+      # Strip here: the tag markup carries surrounding whitespace, and leaving it
+      # in would corrupt the joined path (".../ _includes/...").
+      url = Liquid::Template.parse(@path).render(context).strip
 
       # Adds the site source, so that it also works with a custom one
       site_source = context.registers[:site].config['source']
-      file_path = site_source + '/' + url
+      file_path = File.join(site_source, url)
 
       # Check if file exists (returns true or false)
-      "#{File.exist?(file_path.strip!)}"
+      "#{File.exist?(file_path)}"
     end
   end
 end

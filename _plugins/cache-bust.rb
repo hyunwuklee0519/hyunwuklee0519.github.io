@@ -30,10 +30,11 @@ module Jekyll
       end
 
       def file_contents
-        is_directory? ? file_content : directory_files_content
+        single_file? ? file_content : directory_files_content
       end
 
-      def is_directory?
+      # No directory given means we digest one specific file.
+      def single_file?
         directory.nil?
       end
     end
@@ -43,7 +44,7 @@ module Jekyll
     end
 
     def bust_css_cache(file_name)
-      CacheDigester.new(file_name: file_name, directory: 'assets/_sass').digest!
+      CacheDigester.new(file_name: file_name, directory: '_sass').digest!
     end
   end
 end
