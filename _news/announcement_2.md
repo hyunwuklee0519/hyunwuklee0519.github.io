@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-02-27
+date: 2026-08-06
 inline: true
 related_posts: false
 ---
 
-"CVMAX: Accelerator Architecture with Polar Form Multiplication for Complex-Valued Neural Networks" has been accepted for DAC 2025! I am a first author of the paper.
+"SLGS: A Structure-Aware Scanline Renderer for Efficient 3D Gaussian Splatting" has been accepted for PACT 2026! I am a co-author of the paper.

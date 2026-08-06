@@ -54,6 +54,9 @@
 - title: Publication
   type: time_table
   contents:
+    - title: 'SLGS: A Structure-Aware Scanline Renderer for Efficient 3D Gaussian Splatting (Accepted)'
+      maindescription: Seunghyun Lee, Mingu Jung, Sungwoo Kim, Sungbin Kim, Dongho Ha, <b><u>Hyunwuk Lee</u></b>, Yingyan (Celine) Lin, and Won Woo Ro
+      year: PACT 2026
     - title: 'SLICE: A Selective Local Inference Framework with Codec Exploitation for Accelerating Video Super-Resolution (Accepted)'
       maindescription: Mingu Jung, Sungbin Kim, Seunghyun Lee, Seunghyun Jin, <b><u>Hyunwuk Lee</u></b>, and Won Woo Ro
       year: ISCA 2026
@@ -114,7 +117,11 @@
   type: time_table
   contents:
     - title: Samsung Industry-Academic Research Project Paper Awards
+      year: 2026
+      maindescription: 'For "SLICE: A Selective Local Inference Framework with Codec Exploitation for Accelerating Video Super-Resolution" (ISCA 2026)'
+    - title: Samsung Industry-Academic Research Project Paper Awards
       year: 2025
+      maindescription: 'For "CVMAX: Accelerator Architecture with Polar Form Multiplication for Complex-Valued Neural Networks" (DAC 2025)'
     - title: SK Hynix Industry-Academic Research Project Outstanding Invention
       year: 2021
 
