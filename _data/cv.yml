@@ -18,15 +18,16 @@
         - Diffusion Models [<b>Co-First-author</b>, <a href="https://ieeexplore.ieee.org/abstract/document/10946815">HPCA 2025</a>][<a href="https://arxiv.org/pdf/2501.11211">arXiv</a>], [Co-author, On-going]
         - Vision Language Action Models [First-author, On-going]
         - Bit Serial Accelerator [Co-author, <a href="https://dl.acm.org/doi/full/10.1145/3725843.3756044">MICRO 2025</a>]
-        - Data Format for Neural Network [Co-author, Accepted in ISCA2026]
+        - Data Format for Neural Network [Co-author, ISCA 2026]
     - title: GPU and GPU Memory Systems
       items:
         - Unified Memory Systems [Co-author, <a href="https://ieeexplore.ieee.org/abstract/document/10158179">ISPASS 2023</a>]
         - GPU Register Files [Co-author, <a href="https://www.sciencedirect.com/science/article/pii/S1383762124000894">JSA</a>, <a href="https://patents.google.com/patent/US12298901B2/en">Patent</a>] [Co-author, <a href="https://dl.acm.org/doi/10.1145/3665314.3670800">ISLPED 2024</a>]
         - Multi-GPU Data Transfer [Co-author, Under Review] [Co-author, <a href="https://www.sciencedirect.com/science/article/pii/S1383762125000116">JSA</a>]
+        - 3D Gaussian Splatting Acceleration [Co-author, Accepted in PACT 2026]
     - title: Systems for Machine Learning
       items:
-        - Super-Resolution AI Model Acceleration in Mobile SoC [Co-author, Accepted in ISCA2026]
+        - Super-Resolution AI Model Acceleration in Mobile SoC [Co-author, ISCA 2026]
         - Multi-Core Accelerator Scheduling [Co-author, <a href="https://www.sciencedirect.com/science/article/pii/S1383762125003224">JSA</a>]
         - Processing in Memory for Sparse DNN [Co-author, Under Review]
         - CXL-PNM for Large Language Models [First-author, On-going]
@@ -57,10 +58,10 @@
     - title: 'SLGS: A Structure-Aware Scanline Renderer for Efficient 3D Gaussian Splatting (Accepted)'
       maindescription: Seunghyun Lee, Mingu Jung, Sungwoo Kim, Sungbin Kim, Dongho Ha, <b><u>Hyunwuk Lee</u></b>, Yingyan (Celine) Lin, and Won Woo Ro
       year: PACT 2026
-    - title: 'SLICE: A Selective Local Inference Framework with Codec Exploitation for Accelerating Video Super-Resolution (Accepted)'
+    - title: 'SLICE: A Selective Local Inference Framework with Codec Exploitation for Accelerating Video Super-Resolution'
       maindescription: Mingu Jung, Sungbin Kim, Seunghyun Lee, Seunghyun Jin, <b><u>Hyunwuk Lee</u></b>, and Won Woo Ro
       year: ISCA 2026
-    - title: 'MXFFP: Microscaling Flexible Floating Point Format for Large-Scale AI Model Acceleration (Accepted)'
+    - title: 'MXFFP: Microscaling Flexible Floating Point Format for Large-Scale AI Model Acceleration'
       maindescription: Sungwoo Kim, Sungbin Kim, Dongho Ha, <b><u>Hyunwuk Lee</u></b>, Junsung Kim, Seunghyun Lee, Mingu Jung, Murali Annavaram, and Won Woo Ro
       year: ISCA 2026
     - title: 'DeSpa: Heterogeneous multi-core accelerators for energy-efficient dense and sparse computation at the tile level in Deep Neural Networks <a href="https://www.sciencedirect.com/science/article/pii/S1383762125003224">[PDF]</a>'
