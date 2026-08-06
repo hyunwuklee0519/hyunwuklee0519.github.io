@@ -4,7 +4,7 @@
     - name: Name
       value: Hyunwuk Lee
     - name: Contact
-      value: hyunwulee0519[at]gmail[dot]com
+      value: hyunwuklee0519[at]gmail[dot]com
     - name: Languages
       value: Korean (native), English (fluent)
 
@@ -102,7 +102,7 @@
   contents:
     - title: System Architect
       year: Fall 2024 - 
-      maindescription: "Samsung Electronic, Korea (Solution Platform Development)"
+      maindescription: "Samsung Electronics, Korea (Solution Platform Development)"
     - title: Teaching Assistant
       year: Spring 2018
       maindescription: "Yonsei University, Korea (EEE3530: computer architecture)"
