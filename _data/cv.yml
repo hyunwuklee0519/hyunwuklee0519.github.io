@@ -4,7 +4,7 @@
     - name: Name
       value: Hyunwuk Lee
     - name: Contact
-      value: hyunwuklee0519[at]gmail[dot]com
+      value: hyunwuklee[at]gist[dot]ac[dot]kr
     - name: Languages
       value: Korean (native), English (fluent)
 
@@ -104,8 +104,11 @@
 - title: Professional Experience
   type: time_table
   contents:
+    - title: Assistant Professor
+      year: Fall 2026 -
+      maindescription: "GIST, Korea (Graduate School of Advanced Semiconductor Engineering)"
     - title: System Architect
-      year: Fall 2024 -
+      year: Fall 2024 - Summer 2026
       maindescription: "Samsung Electronics, Korea (Solution Platform Development)"
     - title: Teaching Assistant
       year: Spring 2018

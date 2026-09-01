@@ -6,8 +6,8 @@ title: blank # literal "blank" makes the theme use first_name + last_name instea
 first_name: Hyunwuk
 middle_name:
 last_name: Lee
-email: hyunwuklee0519@gmail.com
-description: Hyunwuk Lee — Ph.D. in Computer Architecture (Yonsei University), working on neural network accelerators and GPU architecture. System engineer at Samsung Electronics.
+email: hyunwuklee@gist.ac.kr
+description: Hyunwuk Lee — Assistant Professor at the GIST Graduate School of Advanced Semiconductor Engineering, working on computer architecture and hardware/software co-design for efficient AI systems.
 footer_text:
 keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
