@@ -18,7 +18,7 @@
         - Diffusion Models [<b>Co-First-author</b>, <a href="https://ieeexplore.ieee.org/abstract/document/10946815">HPCA 2025</a>][<a href="https://arxiv.org/pdf/2501.11211">arXiv</a>], [Co-author, On-going]
         - Vision Language Action Models [First-author, On-going]
         - Bit Serial Accelerator [Co-author, <a href="https://dl.acm.org/doi/full/10.1145/3725843.3756044">MICRO 2025</a>]
-        - Data Format for Neural Network [Co-author, ISCA 2026]
+        - Data Format for Neural Network [Co-author, <a href="https://doi.org/10.1109/ISCA66397.2026.00175">ISCA 2026</a>]
     - title: GPU and GPU Memory Systems
       items:
         - Unified Memory Systems [Co-author, <a href="https://ieeexplore.ieee.org/abstract/document/10158179">ISPASS 2023</a>]
@@ -27,7 +27,7 @@
         - 3D Gaussian Splatting Acceleration [Co-author, Accepted in PACT 2026]
     - title: Systems for Machine Learning
       items:
-        - Super-Resolution AI Model Acceleration in Mobile SoC [Co-author, ISCA 2026]
+        - Super-Resolution AI Model Acceleration in Mobile SoC [Co-author, <a href="https://doi.org/10.1109/ISCA66397.2026.00134">ISCA 2026</a>]
         - Multi-Core Accelerator Scheduling [Co-author, <a href="https://www.sciencedirect.com/science/article/pii/S1383762125003224">JSA</a>]
         - Processing in Memory for Sparse DNN [Co-author, Under Review]
         - CXL-PNM for Large Language Models [First-author, On-going]
@@ -40,7 +40,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Integrated Master and Ph.D. Degree in Computer Architecture
+    - title: Integrated M.S./Ph.D. in Electrical and Electronic Engineering (Computer Architecture)
       year: 2018 - 2024
       description:
         - Yonsei University, Korea
@@ -58,22 +58,22 @@
     - title: "SLGS: A Structure-Aware Scanline Renderer for Efficient 3D Gaussian Splatting (Accepted)"
       maindescription: Seunghyun Lee, Mingu Jung, Sungwoo Kim, Sungbin Kim, Dongho Ha, <b><u>Hyunwuk Lee</u></b>, Yingyan (Celine) Lin, and Won Woo Ro
       year: PACT 2026
-    - title: "SLICE: A Selective Local Inference Framework with Codec Exploitation for Accelerating Video Super-Resolution"
+    - title: 'SLICE: A Selective Local Inference Framework with Codec Exploitation for Accelerating Video Super-Resolution <a href="https://doi.org/10.1109/ISCA66397.2026.00134">[PDF]</a>'
       maindescription: Mingu Jung, Sungbin Kim, Seunghyun Lee, Seunghyun Jin, <b><u>Hyunwuk Lee</u></b>, and Won Woo Ro
       year: ISCA 2026
-    - title: "MXFFP: Microscaling Flexible Floating Point Format for Large-Scale AI Model Acceleration"
+    - title: 'MXFFP: Microscaling Flexible Floating Point Format for Large-Scale AI Model Acceleration <a href="https://doi.org/10.1109/ISCA66397.2026.00175">[PDF]</a>'
       maindescription: Sungwoo Kim, Sungbin Kim, Dongho Ha, <b><u>Hyunwuk Lee</u></b>, Junsung Kim, Seunghyun Lee, Mingu Jung, Murali Annavaram, and Won Woo Ro
       year: ISCA 2026
     - title: 'DeSpa: Heterogeneous multi-core accelerators for energy-efficient dense and sparse computation at the tile level in Deep Neural Networks <a href="https://www.sciencedirect.com/science/article/pii/S1383762125003224">[PDF]</a>'
       maindescription: Hyungjun Jang, Dongho Ha, <b><u>Hyunwuk Lee</u></b>, and Won Woo Ro
       year: JSA 2026
-    - title: 'BitL: Hybrid Bit-Serial and Parallel Processing for Critical Path Reduction <a href="https://dl.acm.org/doi/full/10.1145/3725843.3756044">[PDF]</a>'
+    - title: 'BitL: A Hybrid Bit-Serial and Parallel Deep Learning Accelerator for Critical Path Reduction <a href="https://dl.acm.org/doi/full/10.1145/3725843.3756044">[PDF]</a>'
       maindescription: Seunghyun Lee, Dongho Ha, Sungbin Kim, Sungwoo Kim, <b><u>Hyunwuk Lee</u></b>, and Won Woo Ro
       year: MICRO 2025
     - title: 'Adversarial Purification via Super-Resolution and Diffusion <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Park_Adversarial_Purification_via_Super-Resolution_and_Diffusion_ICCV_2025_paper.html">[PDF]</a>'
       maindescription: Mincheol Park, Cheonjun Park, Seungseop Lim, Mijin Koo, <b><u>Hyunwuk Lee</u></b>, Won Woo Ro, and Suhyun Kim
       year: ICCV 2025
-    - title: 'COSMOS: An LLC Contention Slowdown Model for Heterogeneous Multi-core Systems <a href="https://ieeexplore.ieee.org/abstract/document/11096128">[PDF]</a>'
+    - title: 'COSMOS: An LLC Contention Slowdown Model for Heterogeneous Multi-Core Systems <a href="https://ieeexplore.ieee.org/abstract/document/11096128">[PDF]</a>'
       maindescription: Yongju Lee, Jaewon Kwon, Cheolhwan Kim, Enhyeok Jang, Jiwon Lee, <b><u>Hyunwuk Lee</u></b>, and Won Woo Ro
       year: ISPASS 2025
     - title: 'CVMAX: Accelerator Architecture with Polar Form Multiplication for Complex-Valued Neural Networks <a href="https://ieeexplore.ieee.org/abstract/document/11133125">[PDF]</a>'
@@ -106,7 +106,7 @@
   contents:
     - title: Assistant Professor
       year: Fall 2026 -
-      maindescription: "GIST, Korea (Graduate School of Advanced Semiconductor Engineering)"
+      maindescription: 'GIST, Korea (Graduate School of Advanced Semiconductor Engineering) <a href="https://thecosmiclab.github.io">[COSMIC Lab]</a>'
     - title: System Architect
       year: Fall 2024 - Summer 2026
       maindescription: "Samsung Electronics, Korea (Solution Platform Development)"
@@ -120,10 +120,10 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - title: Samsung Industry-Academic Research Project Paper Awards
+    - title: Samsung Industry-Academic Research Project Paper Award
       year: 2026
       maindescription: 'For "SLICE: A Selective Local Inference Framework with Codec Exploitation for Accelerating Video Super-Resolution" (ISCA 2026)'
-    - title: Samsung Industry-Academic Research Project Paper Awards
+    - title: Samsung Industry-Academic Research Project Paper Award
       year: 2025
       maindescription: 'For "CVMAX: Accelerator Architecture with Polar Form Multiplication for Complex-Valued Neural Networks" (DAC 2025)'
     - title: SK Hynix Industry-Academic Research Project Outstanding Invention
@@ -154,7 +154,7 @@
 - title: Patents
   type: table
   contents:
-    - title: Memory device including a plurarity of area having different refresh periods, memory controller controlling the same and memory system including the same
+    - title: Memory device including a plurality of area having different refresh periods, memory controller controlling the same and memory system including the same
       items: <b><u>US Patent No. 11276452</u></b>, Korea Application 10-2020-0045023
     - title: Apparatus and method with register sharing
       items: <b><u>US Patent No. 12298901</u></b>, Korea Application 10-2022-0074653

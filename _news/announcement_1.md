@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers have been accepted in ISCA2026! I am a co-author of both papers.
+Two papers have been accepted in ISCA 2026! I am a co-author of both papers.
