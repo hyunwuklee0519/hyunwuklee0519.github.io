@@ -1,0 +1,18 @@
+# Store and check out text files with LF on every platform. Without this,
+# core.autocrlf=true on Windows turns the working tree into CRLF, so a local
+# `prettier --check` fails on files that pass in CI.
+* text=auto eol=lf
+
+# Binary assets
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.pdf binary
+*.ttf binary
+*.otf binary
+*.eot binary
+*.woff binary
+*.woff2 binary
