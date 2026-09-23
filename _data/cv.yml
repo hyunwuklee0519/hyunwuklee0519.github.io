@@ -15,27 +15,24 @@
       items:
         - Complex Valued Neural Networks [<b>First author</b>, <a href="https://dl.acm.org/doi/abs/10.1145/3613424.3614287">MICRO 2023</a>], [<b>First author</b>, <a href="https://ieeexplore.ieee.org/abstract/document/11133125">DAC 2025</a>]
         - Large Language Models [Co-author, <a href="https://ieeexplore.ieee.org/abstract/document/10818069">ICCD 2024</a>]
-        - Diffusion Models [<b>Co-First-author</b>, <a href="https://ieeexplore.ieee.org/abstract/document/10946815">HPCA 2025</a>][<a href="https://arxiv.org/pdf/2501.11211">arXiv</a>], [Co-author, On-going]
-        - Vision Language Action Models [First-author, On-going]
+        - Diffusion Models [<b>Co-First-author</b>, <a href="https://ieeexplore.ieee.org/abstract/document/10946815">HPCA 2025</a>][<a href="https://arxiv.org/pdf/2501.11211">arXiv</a>]
         - Bit Serial Accelerator [Co-author, <a href="https://dl.acm.org/doi/full/10.1145/3725843.3756044">MICRO 2025</a>]
         - Data Format for Neural Network [Co-author, <a href="https://doi.org/10.1109/ISCA66397.2026.00175">ISCA 2026</a>]
     - title: GPU and GPU Memory Systems
       items:
         - Unified Memory Systems [Co-author, <a href="https://ieeexplore.ieee.org/abstract/document/10158179">ISPASS 2023</a>]
         - GPU Register Files [Co-author, <a href="https://www.sciencedirect.com/science/article/pii/S1383762124000894">JSA</a>, <a href="https://patents.google.com/patent/US12298901B2/en">Patent</a>] [Co-author, <a href="https://dl.acm.org/doi/10.1145/3665314.3670800">ISLPED 2024</a>]
-        - Multi-GPU Data Transfer [Co-author, Under Review] [Co-author, <a href="https://www.sciencedirect.com/science/article/pii/S1383762125000116">JSA</a>]
+        - Multi-GPU Data Transfer [Co-author, <a href="https://www.sciencedirect.com/science/article/pii/S1383762125000116">JSA</a>]
         - 3D Gaussian Splatting Acceleration [Co-author, Accepted in PACT 2026]
     - title: Systems for Machine Learning
       items:
         - Super-Resolution AI Model Acceleration in Mobile SoC [Co-author, <a href="https://doi.org/10.1109/ISCA66397.2026.00134">ISCA 2026</a>]
         - Multi-Core Accelerator Scheduling [Co-author, <a href="https://www.sciencedirect.com/science/article/pii/S1383762125003224">JSA</a>]
-        - Processing in Memory for Sparse DNN [Co-author, Under Review]
-        - CXL-PNM for Large Language Models [First-author, On-going]
     - title: Others
       items:
         - Approximate Memory for Neural Networks [<a href="https://patents.google.com/patent/US11276452B2/en">US Patent</a>]
         - Analytic Model for Multi-Core Systems [Co-author, <a href="https://ieeexplore.ieee.org/abstract/document/11096128">ISPASS 2025</a>]
-        - Diffusion Models [Co-author, <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Park_Adversarial_Purification_via_Super-Resolution_and_Diffusion_ICCV_2025_paper.html">ICCV 2025</a>]
+        - Adversarial Purification via Diffusion Models [Co-author, <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Park_Adversarial_Purification_via_Super-Resolution_and_Diffusion_ICCV_2025_paper.html">ICCV 2025</a>]
 
 - title: Education
   type: time_table
@@ -100,6 +97,9 @@
     - title: 'Early-Adaptor: An Adaptive Framework for Proactive UVM Memory Management <a href="https://ieeexplore.ieee.org/abstract/document/10158179">[PDF]</a>'
       maindescription: "Seokjin Go, <b><u>Hyunwuk Lee</u></b>, Junsung Kim, Jiwon Lee, Myung Kuk Yoon, and Won Woo Ro"
       year: ISPASS 2023
+    - title: 'Deep Learning with GPUs <a href="https://www.sciencedirect.com/science/article/abs/pii/S0065245820300905">[PDF]</a>'
+      maindescription: Won Jeon, Gun Ko, Jiwon Lee, <b><u>Hyunwuk Lee</u></b>, Dongho Ha, and Won Woo Ro
+      year: Book Chapter 2021
 
 - title: Professional Experience
   type: time_table
@@ -107,6 +107,9 @@
     - title: Assistant Professor
       year: Fall 2026 -
       maindescription: 'GIST, Korea (Graduate School of Advanced Semiconductor Engineering) <a href="https://thecosmiclab.github.io">[COSMIC Lab]</a>'
+    - title: Instructor
+      year: Fall 2026
+      maindescription: "GIST, Korea (Embedded AI System, Graduate)"
     - title: System Architect
       year: Fall 2024 - Summer 2026
       maindescription: "Samsung Electronics, Korea (Solution Platform Development)"
